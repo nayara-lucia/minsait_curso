@@ -1,2 +1,2 @@
 # Treinamento Minsait
-Refazendo exemplos da aula 1
+Refazendo exemplos da aula
